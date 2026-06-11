@@ -1,0 +1,13 @@
+package com.weg.maria_api.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequestMapping("/projeto")
+@RequiredArgsConstructor
+public class ProjetoController {
+
+}
